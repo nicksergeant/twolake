@@ -1,4 +1,1 @@
-twolake
-=======
-
-The website for Two Lake Roastery.
+The website for [Two Lake Roastery](http://twolakeroastery.com/).
