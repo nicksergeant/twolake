@@ -1,1 +1,4 @@
-The website for [Two Lake Roastery](http://twolakeroastery.com/).
+TwoLakeRoastery.com
+===================
+
+The website for Two Lake Roastery.
